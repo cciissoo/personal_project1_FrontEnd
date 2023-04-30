@@ -1,4 +1,4 @@
-# Vue3 + Spring boot 활용 개인 토이 프로젝트
+# Vue3 + Spring boot 풀스택 개인 토이 프로젝트
 
 ## What to do
 
